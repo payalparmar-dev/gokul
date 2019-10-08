@@ -12,6 +12,7 @@
 		DF294823234CBC0400D82D3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF294821234CBC0400D82D3D /* Main.storyboard */; };
 		DF294825234CBC0500D82D3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF294824234CBC0500D82D3D /* Assets.xcassets */; };
 		DF294828234CBC0500D82D3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF294826234CBC0500D82D3D /* LaunchScreen.storyboard */; };
+		DF294830234CBDC100D82D3D /* cow.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DF29482F234CBDC100D82D3D /* cow.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DF294824234CBC0500D82D3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF294827234CBC0500D82D3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF294829234CBC0500D82D3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF29482F234CBDC100D82D3D /* cow.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cow.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				DF29481F234CBC0400D82D3D /* ViewController.swift */,
 				DF294821234CBC0400D82D3D /* Main.storyboard */,
 				DF294824234CBC0500D82D3D /* Assets.xcassets */,
+				DF29482F234CBDC100D82D3D /* cow.jpeg */,
 				DF294826234CBC0500D82D3D /* LaunchScreen.storyboard */,
 				DF294829234CBC0500D82D3D /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF294828234CBC0500D82D3D /* LaunchScreen.storyboard in Resources */,
+				DF294830234CBDC100D82D3D /* cow.jpeg in Resources */,
 				DF294825234CBC0500D82D3D /* Assets.xcassets in Resources */,
 				DF294823234CBC0400D82D3D /* Main.storyboard in Resources */,
 			);
